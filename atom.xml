@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://ElectronicWar.github.com/atom.xml" rel="self"/>
-  <link href="http://ElectronicWar.github.com/"/>
-  <updated>2012-08-29T17:47:26+02:00</updated>
-  <id>http://ElectronicWar.github.com/</id>
+  <title><![CDATA[Lazy Dev]]></title>
+  <link href="http://electronicWar.github.com/atom.xml" rel="self"/>
+  <link href="http://electronicWar.github.com/"/>
+  <updated>2012-08-29T18:17:20+02:00</updated>
+  <id>http://electronicWar.github.com/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Manuel Kroeber]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
