@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Lazy Dev]]></title>
-  <link href="http://electronicWar.github.com/atom.xml" rel="self"/>
-  <link href="http://electronicWar.github.com/"/>
-  <updated>2012-08-29T18:17:20+02:00</updated>
-  <id>http://electronicWar.github.com/</id>
+  <link href="http://blog.glorp.de/atom.xml" rel="self"/>
+  <link href="http://blog.glorp.de/"/>
+  <updated>2012-08-30T20:59:50+02:00</updated>
+  <id>http://blog.glorp.de/</id>
   <author>
     <name><![CDATA[Manuel Kroeber]]></name>
     
